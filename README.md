@@ -18,7 +18,7 @@ This is a simple calculator that can perform basic arithmetic operations, includ
 
 Here's a quick demo of the Calculator in action:
 
-![Calculator Demo](![GIF](https://user-images.githubusercontent.com/87197299/230676287-f802a406-2b53-4250-ad75-dd66f5b3854f.gif)
+![GIF](https://user-images.githubusercontent.com/87197299/230676287-f802a406-2b53-4250-ad75-dd66f5b3854f.gif)
 
 
 Happy calculating! 🚀
