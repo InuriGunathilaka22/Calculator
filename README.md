@@ -1,14 +1,11 @@
 # 🧮 Calculator 🧮
 
-![C1](https://user-images.githubusercontent.com/87197299/230673003-acbebeec-6372-41ef-a97a-fa63650c0009.png)
-![C2](https://user-images.githubusercontent.com/87197299/230673013-64af44da-46cc-4089-b80c-bb12527b0229.png)
-
-This is a simple calculator that can perform basic arithmetic operations, as well as more advanced functions like logarithms and trigonometry.
+This is a simple calculator that can perform basic arithmetic operations, including addition, subtraction, multiplication, and division. It is built using HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
 - Addition, subtraction, multiplication, and division
-- Logarithms and trigonometry functions
+- Delete button to remove the last digit entered
 - Clear button to reset the calculator
 
 ## 💻 Installation
